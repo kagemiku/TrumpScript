@@ -42,7 +42,7 @@ Our language includes several convenient features, perfect for any aspiring Pres
 * Won't run in root mode because America doesn't need your help being great. Trump is all we need.
 * Easy to type with small hands
 
-If you find you can't get any TrumpScript to run on your computer (probably because we disallow the two most popular operating systems), you can specify the `--shut_up` flag to let the interpreter know you just want your code to run, damn it.
+If you find you can't get any TrumpScript to run on your computer (probably because we disallow the two most popular operating systems), you can specify the `--shut-up` flag to let the interpreter know you just want your code to run, damn it.
 
 ## Grammar
 The grammar of the language is fairly convoluted, but here's a taste of the enlightened decisions we've made.
